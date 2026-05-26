@@ -31,8 +31,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-anantha-krishna-rishi-01b6102b4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://myportfolio-rishimajeti.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimajeti060@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHIMAJETI)
 [![Phone](https://img.shields.io/badge/+91--7021983368-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917021983368)
@@ -403,9 +403,9 @@ print(me.life_philosophy())
 <br/>
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimajeti060@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![View Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK_HERE)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917021983368)
+[![Connect on LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-anantha-krishna-rishi-01b6102b4/)
+[![View Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://myportfolio-rishimajeti.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917021983368?text=Hey%20Rishi!%20I%20saw%20your%20GitHub%20profile%20%E2%80%94%20let%27s%20connect!%20%F0%9F%9A%80)
 
 <br/>
 
