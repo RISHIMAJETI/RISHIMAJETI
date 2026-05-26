@@ -1,210 +1,467 @@
-<!-- ████████████████████████████████████████████████████████████████ -->
-<!--          RISHIMAJETI — GITHUB PROFILE README                    -->
-<!-- ████████████████████████████████████████████████████████████████ -->
-<!-- ══════════════ HERO BANNER ══════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║        M ANANTHA KRISHNA RISHI — GitHub Profile README              ║
+║        Customization Guide:                                          ║
+║        → Replace "rishimajeti060" with your actual GitHub username   ║
+║        → Update project links in the Projects section               ║
+║        → Add/remove tech badges as needed                           ║
+║        → Update LinkedIn URL in social section                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020408,50:00f5ff,100:7b2fff&height=300&section=header&text=M%20Anantha%20Krishna%20Rishi&fontSize=44&fontColor=ffffff&fontAlignY=55&desc=Building%20the%20Future%2C%20One%20Model%20at%20a%20Time&descAlignY=72&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=M%20Anantha%20Krishna%20Rishi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=62&descSize=16&animation=fadeIn&stroke=00ff88&strokeWidth=1" width="100%"/>
+
 </div>
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
+
+<!-- ═══════════════════ ANIMATED TYPING TEXT ═══════════════════ -->
+
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🧠+Data+Scientist+%7C+AI+Engineer+%7C+Builder;⚡+Full+Stack+Developer+%7C+React+%26+Node.js;🤖+ML+%C2%B7+Deep+Learning+%C2%B7+LLMs+%C2%B7+GenAI;🚀+RBIH+Top+100+Entrepreneur;💡+Turning+Ideas+into+Intelligent+Products)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+AI+that+actually+matters;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;⚡+Full+Stack+%7C+React+%7C+Node.js+%7C+Python;🌐+Blockchain+%7C+Web3+%7C+Smart+Contracts;🏆+Top+100+Entrepreneur+%7C+Hackathon+Winner;💡+Turning+Ideas+into+Intelligent+Products)](https://git.io/typing-svg)
+
 </div>
+
 <br/>
-<!-- ══════════════ BADGES ROW ══════════════ -->
+
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)
-![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Bangalore%2C_India-7B2FFF?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=RISHIMAJETI&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimajeti060@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishimajeti060)
+[![Phone](https://img.shields.io/badge/+91--7021983368-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917021983368)
+
 </div>
+
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ ABOUT ME ══════════════ -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  About Me
+
+<!-- ═══════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishimajeti060&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/rishimajeti060?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
+
+## `⚡ WHO AM I`
+
 ```python
 class AnanthaKrishnaRishi:
-    """
-    CS undergrad → AI Engineer → Startup Founder in the making.
-    I build products that think, learn, and scale.
-    """
-    name       = "M Anantha Krishna Rishi"
-    role       = ["Data Scientist", "Full Stack Developer", "AI Builder"]
-    location   = "Bangalore, India 🇮🇳"
-    education  = "B.E. Computer Science"
 
-    currently  = {
-        "building"  : "AI-powered platforms for real-world impact",
-        "learning"  : "MLOps · LangChain · Advanced Deep Learning",
-        "seeking"   : "High-impact roles & startup collaborations",
-        "mantra"    : "Ship fast. Learn faster. Build what matters."
-    }
+    def __init__(self):
+        self.name        = "M Anantha Krishna Rishi"
+        self.role        = ["Data Scientist", "Full Stack Developer", "AI Engineer", "Startup Builder"]
+        self.location    = "Bangalore, Karnataka, India 🇮🇳"
+        self.education   = "B.E Computer Science @ East Point College of Engineering"
+        self.email       = "rishimajeti060@gmail.com"
 
-    fun_fact   = "Cricket 🏏 keeps me sharp — strategy on field, strategy in code."
+    def current_focus(self):
+        return [
+            "🧠 Building AI-powered products that solve real problems",
+            "🌐 Scaling full-stack apps with modern cloud infrastructure",
+            "⛓️  Exploring DeFi and blockchain application development",
+            "🚀 Participating in hackathons & co-incubation programs",
+        ]
+
+    def fun_facts(self):
+        return [
+            "🏆 Top 100 Entrepreneur out of 7,000+ students (RBIH × VTU × KSHEC)",
+            "💰 Won ₹75,000 as Codeathon Runner-Up @ IIIT Bangalore",
+            "🌐 Won $500 Best Blockchain Award @ Algorand Global Hackathon",
+            "🏏 College Cricket Team Representative",
+        ]
+
+    def life_philosophy(self):
+        return "Build. Break. Learn. Repeat. Ship faster than you think." 🔥
+
+me = AnanthaKrishnaRishi()
+print(me.life_philosophy())
 ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ TECH STACK ══════════════ -->
-🛠️  Technology Arsenal
+
+<br/>
+
+---
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## `🛠️ TECHNOLOGY ARSENAL`
+
 <div align="center">
-◈ Languages
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-◈ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-◈ Backend & Database
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-◈ AI / ML
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-◈ Tools & DevOps
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Blockchain
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-📊  GitHub Intelligence
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHIMAJETI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIMAJETI&layout=compact&theme=tokyonight&hide_border=true&bg_color=020408&title_color=00f5ff&text_color=ffffff&langs_count=8"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIMAJETI&theme=tokyonight&hide_border=true&background=020408&ring=00f5ff&fire=7b2fff&currStreakLabel=00f5ff&stroke=00f5ff20&border=020408" width="65%"/>
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIMAJETI&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" width="100%"/>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
-📈  Contribution Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIMAJETI&theme=react-dark&hide_border=true&bg_color=020408&color=00f5ff&line=7b2fff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
-</div>
-<!-- ══════════════ SNAKE ══════════════ -->
-🐍  Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/RISHIMAJETI/RISHIMAJETI/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ PROJECTS ══════════════ -->
-🚀  Flagship Projects
-<div align="center">
-	Project	Description	Stack	Status
-🧠	CreditWorthy	AI credit assessment — democratizing financial access via ML	`Python` `ML` `React` `XAI`	🟢 Live
-🌐	Campus Founders	AI + Blockchain startup ecosystem for student entrepreneurs	`Algorand` `AI` `React` `Web3`	🔵 Building
-🌾	FARM2CONSUMER	Smart AgriTech connecting farmers directly to consumers	`Python` `Firebase` `React`	🟢 Live
-</div>
+
 <br/>
-<details>
-<summary><b>🧠 CreditWorthy — Click to expand</b></summary>
-<br/>
-> *Reimagining financial trust through machine intelligence*
-```
-📌 ML pipeline for credit risk scoring
-📌 Explainable AI (XAI) for transparent, auditable decisions
-📌 Full-stack React + Node.js interface
-📌 Real-world impact: democratizing credit access
-```
-![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)
-![Demo](https://img.shields.io/badge/Live_Demo-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)
-</details>
-<details>
-<summary><b>🌐 Campus Founders — Click to expand</b></summary>
-<br/>
-> *Where student ideas meet blockchain-powered opportunity*
-```
-📌 AI-driven startup matching algorithm
-📌 Algorand blockchain for on-chain transparent funding
-📌 $500 Algorand Hackathon Winner ✨
-📌 Community-driven founder network
-```
-![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)
-![Demo](https://img.shields.io/badge/Live_Demo-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)
-</details>
-<details>
-<summary><b>🌾 FARM2CONSUMER — Click to expand</b></summary>
-<br/>
-> *Technology that feeds the world — directly*
-```
-📌 Real-time farmer-consumer marketplace
-📌 Smart dynamic pricing algorithms
-📌 Firebase-powered live inventory sync
-📌 Empowering farmers across India
-```
-![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)
-![Demo](https://img.shields.io/badge/Live_Demo-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)
-</details>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ ACHIEVEMENTS ══════════════ -->
-🏆  Achievements & Recognition
+
+---
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+## `📊 GITHUB PERFORMANCE`
+
 <div align="center">
-🏅	Award	Achievement	Details
-🚀	RBIH Co-Incubation	Top 100 Entrepreneur	Reserve Bank of India Innovation Hub — nationally
-💰	Codeathon	₹75,000 Runner-Up	National competitive coding & product hackathon
-🔗	Algorand Blockchain	$500 Winner	Web3 innovation & smart contract development
-🏏	College Cricket	University Representative	Discipline, teamwork, high-pressure strategy
+
+<a href="https://github.com/rishimajeti060">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishimajeti060&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimajeti060&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
+</a>
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ EXPERIENCE ══════════════ -->
-💼  Experience
-🏢 Web Development Intern  ·  SuprMentr Technologies Pvt. Ltd.
-`2024`  ·  `Bangalore, India`  ·  `Full-time Internship`
-> Built and deployed production-grade web features using React.js and Node.js. Contributed to real client-facing products, shipping features end-to-end under senior engineering mentorship in a fast-paced startup environment.
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ CURRENTLY ══════════════ -->
-🌐  Currently Navigating
+
+<br/>
+
 <div align="center">
-Area	Focus
-🧠 AI Research	LLMs · Retrieval-Augmented Generation · AI Agents
-🏗️ Product	Building AI-native full-stack applications
-📚 Learning	MLOps · LangChain · System Design at scale
-🤝 Open To	Internships · Research Collabs · Startup Roles
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishimajeti060&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00ff88&dates=8b949e)](https://git.io/streak-stats)
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ QUOTE ══════════════ -->
-💭  Engineering Philosophy
+
+<br/>
+
+---
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+## `🏆 GITHUB TROPHIES`
+
 <div align="center">
-> *"The best AI systems aren't just technically sound — they solve real problems for real people.*
-> *Build with empathy. Ship with precision. Scale with purpose."*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rishimajeti060&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+## `🚀 FLAGSHIP PROJECTS`
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 CreditWorthy
+**AI-Powered Credit Assessment Platform**
+
+> Intelligent credit scoring that thinks like a banker — but smarter.
+
+- 🎯 **85% accuracy** improvement in credit prediction
+- 🔐 Phone-based secure authentication system
+- 📊 ML-powered transaction pattern analysis
+- ⚡ Real-time risk & financial prediction engine
+
+**Stack:** `Python` `Machine Learning` `Firebase` `React.js`
+
+[![Live](https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_CREDITWORTHY_LINK_HERE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Campus Founders
+**AI + Blockchain Startup Ecosystem**
+
+> Where student entrepreneurs meet capital, opportunity, and the future.
+
+- 🤝 Connects students with investors & mentors
+- ⛓️  **Blockchain-verified** startup credentials
+- 💰 Government scheme discovery engine
+- 🏆 **$500 Algorand Hackathon Winner**
+
+**Stack:** `Blockchain` `Algorand` `React.js` `Node.js` `AI`
+
+[![Live](https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_CAMPUSFOUNDERS_LINK_HERE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 FARM2CONSUMER
+**Smart Farmer-Consumer Connection Portal**
+
+> Closing the gap between farm and fork — intelligently.
+
+- 🗺️  Location + crop-type smart filtering
+- 📱 WhatsApp-integrated farmer onboarding
+- 🚫 Zero dependency on expensive mapping APIs
+- 👩‍🌾 Direct farmer-to-consumer marketplace
+
+**Stack:** `JavaScript` `React.js` `Firebase` `WhatsApp API`
+
+[![Live](https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_FARM2CONSUMER_LINK_HERE)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Web Development @ SuprMentr
+**Industry Internship | Jan 2026 – May 2026**
+
+> Real-world engineering at startup velocity.
+
+- ⚛️  Built responsive apps with React.js
+- 🧮 Shipped Calculator App with real-time operations
+- 🎨 Developed personal portfolio platforms
+- 🔧 Improved debugging & deployment workflows
+
+**Stack:** `HTML` `CSS` `JavaScript` `React.js`
+
+![Internship](https://img.shields.io/badge/Completed-00FF88?style=for-the-badge&logo=checkmarx&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+
+## `🏅 ACHIEVEMENTS & RECOGNITION`
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                         ACHIEVEMENT TIMELINE                            ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  🏆 2024 ──────────────────────────────────────────────────────────────  ║
+║     │                                                                    ║
+║     ├── 🥉 Codeathon 2024 — 2nd Runner Up                               ║
+║     │       ₹75,000 Prize | IIIT Bangalore × RBIH Innovation Center     ║
+║     │                                                                    ║
+║     └── 🌐 Algorand Global Hackathon                                    ║
+║             $500 USD | "Best Use of Blockchain" Award                   ║
+║                                                                          ║
+║  🚀 2025 ──────────────────────────────────────────────────────────────  ║
+║     │                                                                    ║
+║     └── 🎯 RBIH Co-Incubation Program                                   ║
+║             Top 100 Entrepreneur from 7,000+ applicants                 ║
+║             Selected by RBIH × VTU × KSHEC                             ║
+║                                                                          ║
+║  🏏 2022–Present ─────────────────────────────────────────────────────  ║
+║     │                                                                    ║
+║     └── ⚾ College Cricket Team Representative                           ║
+║             Inter-college tournament player                              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
+
+## `📈 CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishimajeti060&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8830)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+## `🐍 COMMIT STREAK SNAKE`
+
+<div align="center">
+
+> ⚙️ *To enable the snake animation: Go to your GitHub repo Settings → Actions → set up the [platane/snk](https://github.com/platane/snk) workflow. Then replace the URL below with your generated snake GIF.*
+
+<!-- Once setup, uncomment the line below and delete the note above:
+![Snake animation](https://github.com/rishimajeti060/rishimajeti060/blob/output/github-contribution-grid-snake-dark.svg)
+-->
+
+![Snake animation placeholder](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ EDUCATION ═══════════════════ -->
+
+## `🎓 EDUCATION`
+
+<br/>
+
+| 🏫 Institution | 📚 Degree / Board | 📅 Year | 🏆 Score |
+|---|---|---|---|
+| **East Point College of Engineering & Technology** | B.E — Computer Science | 2022–Present | CGPA: 7.3 |
+| **Sri Bhavishya Junior College, Vijayawada** | Intermediate — MPC | 2020–2022 | 70% |
+| **Narayana IIT Olympiad School, Vijayawada** | SSC — State Board | 2019–2020 | GPA: 10.0 ⭐ |
+
+<br/>
+
+---
+
+<!-- ═══════════════════ CURRENTLY LEARNING ═══════════════════ -->
+
+## `📡 CURRENTLY EXPLORING`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🔬  Deep Learning Architectures (CNNs, Transformers) │
+│   🌐  Web3 & Decentralized Applications (DApps)        │
+│   ☁️   Cloud Infrastructure (AWS / GCP)                 │
+│   📊  Advanced Data Science & Analytics                │
+│   🤖  Large Language Models & Prompt Engineering       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ PHILOSOPHY / QUOTE ═══════════════════ -->
+
+## `💬 PHILOSOPHY`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br/><br/>
+
+> *"I don't just write code — I engineer solutions, ship products, and build futures.  
+> Every line of code I write is a step toward something that didn't exist before."*
 >
 > **— M Anantha Krishna Rishi**
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ══════════════ CONNECT ══════════════ -->
-📡  Let's Connect
+
+<br/>
+
+---
+
+<!-- ═══════════════════ CONTACT SECTION ═══════════════════ -->
+
+## `📬 LET'S BUILD SOMETHING GREAT`
+
 <div align="center">
-Actively open to internships, research collaborations, startup ventures, and high-impact engineering roles.
-Response within 24 hours.
+
+### Open to: Internships · Full-time Roles · Freelance · Collaborations · Hackathons
+
 <br/>
-![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)
-![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimajeti060@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![View Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK_HERE)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917021983368)
+
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=RISHIMAJETI&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/RISHIMAJETI?style=for-the-badge&color=7b2fff&label=FOLLOWERS&logo=github)
+
+```
+  Location  : Bangalore, Karnataka, India 🇮🇳
+  Response  : Within 24 hours ⚡
+  Timezone  : IST (UTC +5:30)
+  Status    : Actively open to opportunities 🟢
+```
+
 </div>
+
 <br/>
-<!-- ══════════════ FOOTER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f5ff,100:020408&height=130&section=footer" width="100%"/>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
 <div align="center">
-<sub>Crafted with intention &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Built to last</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00ff88?style=for-the-badge)
+![Bangalore](https://img.shields.io/badge/From-Bangalore%2C%20India%20🇮🇳-FF9933?style=for-the-badge)
+
+<br/>
+
+*⭐ Star some repos if you find them interesting — it genuinely means a lot!*
+
 </div>
+
+<!--
+═══════════════════════════════════════════════════════════
+  SETUP CHECKLIST (complete before publishing):
+  
+  ✅ Replace "rishimajeti060" with your actual GitHub username
+  ✅ Replace YOUR_LINKEDIN_HERE with your LinkedIn profile slug
+  ✅ Replace YOUR_PORTFOLIO_LINK_HERE with your portfolio URL
+  ✅ Replace project links in Featured Projects section
+  ✅ Set up GitHub Actions for snake contribution graph:
+     → https://github.com/platane/snk
+  ✅ Create a repo named exactly: rishimajeti060/rishimajeti060
+  ✅ Paste this README.md inside that repo
+  ✅ Make the repo public
+  
+  OPTIONAL ENHANCEMENTS:
+  → Add a Spotify Now Playing widget (spotify-github-profile)
+  → Add a WakaTime coding stats badge
+  → Add a blog feed if you write articles
+═══════════════════════════════════════════════════════════
+-->
