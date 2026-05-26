@@ -27,10 +27,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananthakrishnarishi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ananthakrishnarishi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RISHIMAJETI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://RISHIMAJETI.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthakrishnarishi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ananthakrishnarishi)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RISHIMAJETI)
 [![Location](https://img.shields.io/badge/Bangalore%2C%20India-7B2FFF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -125,17 +125,17 @@ class AnanthaKrishnaRishi:
 
 <div align="center">
 
-<!--  Replace "ananthakrishnarishi" with your actual GitHub username in ALL stat URLs below  -->
+<!--  Replace "RISHIMAJETI" with your actual GitHub username in ALL stat URLs below  -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananthakrishnarishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHIMAJETI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishnarishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIMAJETI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthakrishnarishi&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f5ff&fire=7b2fff&currStreakLabel=00f5ff&stroke=7b2fff&border=0d0d0d" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHIMAJETI&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f5ff&fire=7b2fff&currStreakLabel=00f5ff&stroke=7b2fff&border=0d0d0d" width="60%"/>
 
 </div>
 
@@ -145,7 +145,7 @@ class AnanthaKrishnaRishi:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananthakrishnarishi&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RISHIMAJETI&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" width="100%"/>
 
 </div>
 
@@ -167,7 +167,7 @@ class AnanthaKrishnaRishi:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ananthakrishnarishi/ananthakrishnarishi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/RISHIMAJETI/RISHIMAJETI/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
@@ -301,9 +301,9 @@ Skills applied: React.js · Node.js · REST APIs · Git · Agile workflows
 
 <div align="center">
 
-<!--  Replace "ananthakrishnarishi" with your actual GitHub username  -->
+<!--  Replace "RISHIMAJETI" with your actual GitHub username  -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthakrishnarishi&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00f5ff&line=7b2fff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIMAJETI&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00f5ff&line=7b2fff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
 
 </div>
 
@@ -365,10 +365,10 @@ Skills applied: React.js · Node.js · REST APIs · Git · Agile workflows
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananthakrishnarishi)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ananthakrishnarishi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RISHIMAJETI)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://RISHIMAJETI.vercel.app)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthakrishnarishi@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananthakrishnarishi)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHIMAJETI)
 
 <br/>
 
@@ -384,9 +384,9 @@ Skills applied: React.js · Node.js · REST APIs · Git · Agile workflows
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ananthakrishnarishi&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=RISHIMAJETI&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ananthakrishnarishi?style=for-the-badge&color=7b2fff&label=FOLLOWERS&logo=github)](https://github.com/ananthakrishnarishi)
+[![GitHub followers](https://img.shields.io/github/followers/RISHIMAJETI?style=for-the-badge&color=7b2fff&label=FOLLOWERS&logo=github)](https://github.com/RISHIMAJETI)
 
 </div>
 
@@ -406,7 +406,7 @@ Skills applied: React.js · Node.js · REST APIs · Git · Agile workflows
 ╔══════════════════════════════════════════════════════════════════╗
 ║  CUSTOMIZATION CHECKLIST                                         ║
 ║  ─────────────────────────────────────────────────────────────  ║
-║  1. Replace "ananthakrishnarishi" with your real GitHub username ║
+║  1. Replace "RISHIMAJETI" with your real GitHub username ║
 ║     in ALL stat/graph/trophy/snake URLs                         ║
 ║  2. Update LinkedIn URL with your actual profile link           ║
 ║  3. Update Portfolio URL with your actual Vercel/custom domain  ║
