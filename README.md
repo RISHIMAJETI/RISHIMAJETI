@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║        M ANANTHA KRISHNA RISHI — GitHub Profile README              ║
 ║        Customization Guide:                                          ║
-║        → Replace "rishimajeti060" with your actual GitHub username   ║
+║        → Replace "RISHIMAJETI" with your actual GitHub username   ║
 ║        → Update project links in the Projects section               ║
 ║        → Add/remove tech badges as needed                           ║
 ║        → Update LinkedIn URL in social section                      ║
@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK_HERE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimajeti060@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishimajeti060)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RISHIMAJETI)
 [![Phone](https://img.shields.io/badge/+91--7021983368-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917021983368)
 
 </div>
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishimajeti060&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/rishimajeti060?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=RISHIMAJETI&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/RISHIMAJETI?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -148,9 +148,9 @@ print(me.life_philosophy())
 
 <div align="center">
 
-<a href="https://github.com/rishimajeti060">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishimajeti060&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimajeti060&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/RISHIMAJETI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RISHIMAJETI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIMAJETI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
 </a>
 
 </div>
@@ -159,7 +159,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishimajeti060&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00ff88&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RISHIMAJETI&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00ff88&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
@@ -173,7 +173,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rishimajeti060&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RISHIMAJETI&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -309,7 +309,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishimajeti060&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8830)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RISHIMAJETI&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8830)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -323,13 +323,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-> ⚙️ *To enable the snake animation: Go to your GitHub repo Settings → Actions → set up the [platane/snk](https://github.com/platane/snk) workflow. Then replace the URL below with your generated snake GIF.*
-
-<!-- Once setup, uncomment the line below and delete the note above:
-![Snake animation](https://github.com/rishimajeti060/rishimajeti060/blob/output/github-contribution-grid-snake-dark.svg)
--->
-
-![Snake animation placeholder](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -449,13 +443,13 @@ print(me.life_philosophy())
 ═══════════════════════════════════════════════════════════
   SETUP CHECKLIST (complete before publishing):
   
-  ✅ Replace "rishimajeti060" with your actual GitHub username
+  ✅ Replace "RISHIMAJETI" with your actual GitHub username
   ✅ Replace YOUR_LINKEDIN_HERE with your LinkedIn profile slug
   ✅ Replace YOUR_PORTFOLIO_LINK_HERE with your portfolio URL
   ✅ Replace project links in Featured Projects section
   ✅ Set up GitHub Actions for snake contribution graph:
      → https://github.com/platane/snk
-  ✅ Create a repo named exactly: rishimajeti060/rishimajeti060
+  ✅ Create a repo named exactly: RISHIMAJETI/RISHIMAJETI
   ✅ Paste this README.md inside that repo
   ✅ Make the repo public
   
